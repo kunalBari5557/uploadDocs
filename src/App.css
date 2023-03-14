@@ -77,11 +77,11 @@
 }
 
 .bulk-actions button.delete {
-  background-color: #f44336;
+  background-color: #4c99af;
 }
 
 .bulk-actions button.download {
-  background-color: #4CAF50;
+  background-color: #4c99af;
 }
 
 .view-mode {
@@ -101,11 +101,11 @@
 }
 
 .view-mode button.grid {
-  background-color: #4CAF50;
+  background-color: #4c99af;
 }
 
 .view-mode button.list {
-  background-color: #f44336;
+  background-color: #4c99af;
 }
 
 .grid-view {
